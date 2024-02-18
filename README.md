@@ -1,4 +1,4 @@
-## Aash Logistics Website (index.md)
+## Aash Logistics Website
 
 **Meta Description:** Aash Logistics offers seamless freight solutions. Get quotes, track shipments, and experience reliable delivery across diverse industries. We handle your logistics, so you can focus on your business.
 **Hero Section:**
